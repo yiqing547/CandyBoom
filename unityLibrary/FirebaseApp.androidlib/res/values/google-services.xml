@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">200493618429</string>
+  <string name="google_storage_bucket" translatable="false">candy-boom-34d52.appspot.com</string>
+  <string name="project_id" translatable="false">candy-boom-34d52</string>
+  <string name="google_api_key" translatable="false">AIzaSyB2-23Za-t8NHRZjDwjjoxhWA6pDqADfls</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2-23Za-t8NHRZjDwjjoxhWA6pDqADfls</string>
+  <string name="google_app_id" translatable="false">1:200493618429:android:8e88a4a39bb9e273f9da94</string>
+  <string name="default_android_client_id" translatable="false">200493618429-l6652hg4u43np60nhvgcfgun4dmu34t5.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">200493618429-7igs0958smn6h2b3p993hisnr0qfk21v.apps.googleusercontent.com</string>
+</resources>

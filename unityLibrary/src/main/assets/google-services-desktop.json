@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "200493618429",
+    "project_id": "candy-boom-34d52",
+    "storage_bucket": "candy-boom-34d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200493618429:android:8e88a4a39bb9e273f9da94",
+        "android_client_info": {
+          "package_name": "com.cusky.candyboom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200493618429-l6652hg4u43np60nhvgcfgun4dmu34t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cusky.candyboom",
+            "certificate_hash": "1feac66071fab777620811e29b6b0cbfc9b81568"
+          }
+        },
+        {
+          "client_id": "200493618429-7igs0958smn6h2b3p993hisnr0qfk21v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-23Za-t8NHRZjDwjjoxhWA6pDqADfls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200493618429-7igs0958smn6h2b3p993hisnr0qfk21v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200493618429-fmfi5lb9dh84tavg75t1nl8ma1s66lfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "game.fcyq.candyboom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
